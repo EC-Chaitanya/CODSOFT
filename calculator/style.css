@@ -44,7 +44,10 @@ body{
     font-size: 20px;
     cursor: pointer;
     background-color: #444;
+    color: white;
   }
+.button button.operator {
+    color: #FF8C00;
   .button button:active {
     transform: scale(0.99);
   }
